@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfa3c879-309b-45c8-8c32-8df69334706c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Prog1PragKW49/countSubstrings/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Prog1PragKW49/countSubstrings/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Prog1PragKW49/countSubstrings/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Prog1PragKW49/countSubstrings/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Prog1PragKW49/countSubstrings/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Prog1PragKW49/countSubstrings/countSubstrings.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Prog1PragKW49/countSubstrings/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Prog1PragKW49/join_and_sum/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Prog1PragKW49/join_and_sum/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Prog1PragKW49/join_and_sum/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Prog1PragKW49/join_and_sum/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Prog1PragKW49/join_and_sum/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Prog1PragKW49/join_and_sum/join_and_sum.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Prog1PragKW49/join_and_sum/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Prog1PragKW49/allStar/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prog1PragKW49/allStar/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,6 +67,8 @@
       <workItem from="1573047817659" duration="1922000" />
       <workItem from="1573479379666" duration="1450000" />
       <workItem from="1574693944871" duration="9000" />
+      <workItem from="1576499639351" duration="643000" />
+      <workItem from="1576504345148" duration="48000" />
     </task>
     <servers />
   </component>
@@ -92,7 +80,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
