@@ -1,5 +1,8 @@
 import java.util.List;
 import java.util.Arrays;
+import java.util.function.BiFunction;
+import java.util.stream.Collectors;
+
 
 /**
  *
@@ -36,6 +39,16 @@ import java.util.Arrays;
  */
 public class Main {
 
+
+    public static BiFunction<List<String>, String, List<String>> without = (lst, str) ->
+            lst.stream().filter(s -> !s.equals(str)).collect(Collectors.toList());
+
+    /*public static BiFunction<List<String>, String, List<String>> without = (lst, str) -> {
+        Predicate<String> func = s -> !s.equals(str);
+        Stream<String> stream = lst.stream().filter(func);
+        return stream.collect(Collectors.toList());
+    };
+*/
     public static void main(String[] args) {
         List<String> examples = Arrays.asList(
                 "Dies", "ist", "nur", "ein", "Beispiel"
