@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="423771cf-7ff7-48b7-b2a1-9cd2c77cc556" name="Default Changelist" comment="" />
+    <list default="true" id="423771cf-7ff7-48b7-b2a1-9cd2c77cc556" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Bonus/lambda_perfect_numbers/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bonus/lambda_primes/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prog1PragKW46/evenOdd/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prog1PragKW46/evenOdd/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prog1PragKW46/scoresIncreasing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prog1PragKW46/scoresIncreasing/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,11 +20,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1SbON9E51N29sPlMBUo4Dt0jOs4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Prog1PragKW46/evenOdd" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Prog1PragKW49/join_and_sum" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -59,11 +68,23 @@
       <updated>1571828785681</updated>
       <workItem from="1571828789251" duration="3833000" />
       <workItem from="1571917444530" duration="1935000" />
+      <workItem from="1579733077163" duration="28000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
